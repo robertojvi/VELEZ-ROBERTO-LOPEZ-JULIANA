@@ -1,8 +1,9 @@
-package service;
+package test;
 
 import model.Odontologo;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import service.OdontologoService;
 
 import java.util.List;
 

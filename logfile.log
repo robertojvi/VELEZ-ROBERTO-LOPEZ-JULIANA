@@ -51,3 +51,11 @@ APELLIDO VARCHAR(50) NOT NULL,
 [2024-08-12 20:10:17] [ INFO ] [DaoH2:76] Odontologo recuperado de DB Odontologo{id=1, numeroMatricula=202020, nombre='JUAN', apellido='PEREZ'}
 [2024-08-12 20:10:17] [ INFO ] [DaoH2:76] Odontologo recuperado de DB Odontologo{id=2, numeroMatricula=303030, nombre='JUANA', apellido='DELGADO'}
 [2024-08-12 20:10:17] [ INFO ] [DaoH2:76] Odontologo recuperado de DB Odontologo{id=3, numeroMatricula=404040, nombre='PEPITO', apellido='PEREZ'}
+[2024-08-12 20:16:36] [ INFO ] [OdontologoServiceTest:30] Se ha creado la tabla
+[2024-08-12 20:16:36] [ INFO ] [DaoH2:76] Odontologo recuperado de DB Odontologo{id=1, numeroMatricula=202020, nombre='JUAN', apellido='PEREZ'}
+[2024-08-12 20:16:36] [ INFO ] [DaoH2:76] Odontologo recuperado de DB Odontologo{id=2, numeroMatricula=303030, nombre='JUANA', apellido='DELGADO'}
+[2024-08-12 20:16:36] [ INFO ] [DaoH2:76] Odontologo recuperado de DB Odontologo{id=3, numeroMatricula=404040, nombre='PEPITO', apellido='PEREZ'}
+[2024-08-12 20:16:41] [ INFO ] [OdontologoServiceTest:30] Se ha creado la tabla
+[2024-08-12 20:16:41] [ INFO ] [DaoH2:76] Odontologo recuperado de DB Odontologo{id=1, numeroMatricula=202020, nombre='JUAN', apellido='PEREZ'}
+[2024-08-12 20:16:41] [ INFO ] [DaoH2:76] Odontologo recuperado de DB Odontologo{id=2, numeroMatricula=303030, nombre='JUANA', apellido='DELGADO'}
+[2024-08-12 20:16:41] [ INFO ] [DaoH2:76] Odontologo recuperado de DB Odontologo{id=3, numeroMatricula=404040, nombre='PEPITO', apellido='PEREZ'}
